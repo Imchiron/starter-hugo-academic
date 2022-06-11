@@ -16,8 +16,8 @@ social:
     icon_pack: ai
     icon: <i class="fa-brands fa-linkedin"></i>
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Southern University of Science and Technology
+    url: https://www.sustech.edu.cn/en/
 education:
   courses:
     - course: B.E. in Measurement and Control Technology and Instrumentation
