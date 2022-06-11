@@ -20,16 +20,16 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: B.E. in Measurement and Control Technology and Instrumentation
+      institution: Beijing Jiaotong University
+      year: 2019
+    - course: M.Sc. in Robotics
+      institution: University of Bristol
+      year: 2020
+    - course: Ph.D. in Mechanical Engineering
+      institution: University of Delaware
+      year: 2027
+email: yydimchiron@gmail.com
 superuser: true
 highlight_name: true
 ---
