@@ -9,7 +9,12 @@ interests:
   - Legged Robotics
   - Micro-robotics
   - Robot Locomotion
-social: []
+social:
+  - display:
+      header: false
+    link: http://linkedin.com/in/yanda-yang-ba3b61211
+    icon_pack: ai
+    icon: <i class="fa-brands fa-linkedin"></i>
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
