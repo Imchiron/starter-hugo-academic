@@ -16,23 +16,23 @@ social:
     icon_pack: ai
     icon: <i class="fa-brands fa-linkedin"></i>
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Southern University of Science and Technology
+    url: https://www.sustech.edu.cn/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Measurement and Control Technology and Instrumentation
+      institution: Beijing Jiaotong University
+      year: 2019
+    - course: Robotics
+      institution: University of Bristol
+      year: 2020
+    - course: Mechanical Engineering
+      institution: University of Delaware
+      year: 2027
+email: yangyd@mail.sustech.edu.cn
 superuser: true
 highlight_name: true
 ---
-I'm currently a research assistant in Advanced Actuators and Robotics Lab, SUSTech Institute of Robotics, supervised by Prof. Hongqiang Wang. I obtained my master degree in Robotics from the University of Bristol and my bachelor degree from Beijing Jiaotong University. I will begin my Ph.D. in Mechanical Engineering at the University of Delaware in 2022Fall and join SMT Lab as a research assistant, supervised by Prof. Sambeeta Das.
+I'm currently a research assistant in Advanced Actuators and Robotics Lab, SUSTech Institute of Robotics, supervised by Associate Professor Hongqiang Wang. I obtained my master degree in Robotics from the University of Bristol and my bachelor degree from Beijing Jiaotong University. I will begin my Ph.D. in Mechanical Engineering at the University of Delaware in 2022Fall and join SMT Lab as a research assistant, supervised by Assistant Professor Sambeeta Das.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
