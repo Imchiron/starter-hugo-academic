@@ -20,19 +20,19 @@ organizations:
     url: https://www.sustech.edu.cn/en/
 education:
   courses:
-    - course: Measurement and Control Technology and Instrumentation
+    - course: "B.E. in Measurement and Control Technology and Instrument "
       institution: Beijing Jiaotong University
       year: 2019
-    - course: Robotics
+    - course: M.Sc. in Robotics
       institution: University of Bristol
       year: 2020
-    - course: Mechanical Engineering
+    - course: Ph.D. in Mechanical Engineering
       institution: University of Delaware
       year: 2027
-email: yangyd@mail.sustech.edu.cn
+email: yydimchiron@gmail.com
 superuser: true
 highlight_name: true
 ---
-I'm currently a research assistant in Advanced Actuators and Robotics Lab, SUSTech Institute of Robotics, supervised by Associate Professor Hongqiang Wang. I obtained my master degree in Robotics from the University of Bristol and my bachelor degree from Beijing Jiaotong University. I will begin my Ph.D. in Mechanical Engineering at the University of Delaware in 2022Fall and join SMT Lab as a research assistant, supervised by Assistant Professor Sambeeta Das.
+I'm currently a research assistant in Advanced Actuators and Robotics Lab, SUSTech Institute of Robotics, supervised by Associate Professor Hongqiang Wang. I obtained my master degree in Robotics from the University of Bristol and my bachelor degree from Beijing Jiaotong University. I will begin my Ph.D. in Mechanical Engineering at the University of Delaware in 2022 Fall and join SMT Lab as a research assistant, supervised by Assistant Professor Sambeeta Das.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
