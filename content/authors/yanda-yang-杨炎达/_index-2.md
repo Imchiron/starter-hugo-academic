@@ -31,7 +31,7 @@ education:
       institution: University of Delaware
       year: 2027
 email: yydimchiron@gmail.com
-superuser: true
+superuser: false
 highlight_name: true
 ---
 I'm currently a research assistant in Advanced Actuators and Robotics Lab, SUSTech Institute of Robotics, supervised by Associate Professor Hongqiang Wang. I obtained my master degree in Robotics from the University of Bristol and my bachelor degree from Beijing Jiaotong University. I will begin my Ph.D. in Mechanical Engineering at the University of Delaware in 2022 Fall and join SMT Lab as a research assistant, supervised by Assistant Professor Sambeeta Das.
