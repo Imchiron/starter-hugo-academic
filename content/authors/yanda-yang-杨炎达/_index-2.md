@@ -1,6 +1,7 @@
 ---
 title: Yanda YANG (杨炎达)
 role: Robotics Research
+avatar_filename: photo.jpg
 bio: My research interests include soft robotics, bio-inspired robotics, legged
   robotics, micro-robotics, and robot locomotion.
 interests:
